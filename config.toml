@@ -10,10 +10,11 @@ parallel-jobs = 1
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
-version = "auto"
+version = "20.33.40"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
 
 [Music]
 build-mode = "both"
