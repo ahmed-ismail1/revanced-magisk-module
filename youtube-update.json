@@ -1,6 +1,6 @@
 {
-  "version": "v20.33.40 (patches 5.42.1)",
-  "versionCode": 11,
-  "zipUrl": "https://github.com/ahmed-ismail1/revanced-magisk-module/releases/download/11/youtube-revanced-magisk-v20.33.40-all.zip",
+  "version": "v20.33.40 (patches 5.43.0)",
+  "versionCode": 12,
+  "zipUrl": "https://github.com/ahmed-ismail1/revanced-magisk-module/releases/download/12/youtube-revanced-magisk-v20.33.40-all.zip",
   "changelog": "https://raw.githubusercontent.com/ahmed-ismail1/revanced-magisk-module/update/build.md"
 }
